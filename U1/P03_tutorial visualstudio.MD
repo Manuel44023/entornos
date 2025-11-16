@@ -1,4 +1,4 @@
-Visual studio 
+Visual studio + github
 
 parte 1 comprobar que github esta conectado a visual studio code.
 
