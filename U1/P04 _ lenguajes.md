@@ -15,8 +15,8 @@ g++: ya se tiene
 ![g++](<Captura de pantalla_2025-11-13_19-32-20.png>)
 
 php: no se tenía, asi que se tuvo que instalar
-!
-[php](<Captura de pantalla_2025-11-13_19-39-36.png>)
+
+![php](<Captura de pantalla_2025-11-13_19-39-36.png>)
 
 (comprobación de que se instalo)
 
